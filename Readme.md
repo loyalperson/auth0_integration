@@ -1,7 +1,7 @@
-# Laravel 8 Ecommerce Panel with VUE JS
-More comprehensive Laravel 8 e-commerce panel with vue js
+# Laravel 10 Ecommerce Panel with VUE JS
+More comprehensive Laravel 10 e-commerce panel with vue js
 
-I would like to share with you the e-commerce project I prepared with Laravel 8 - Vue JS - Rest API. Although it already has shortcomings, it is functional and very useful in terms of design. Its architecture is such that it can handle an infrastructure between 10k and 50k products.
+I would like to share with you the e-commerce project I prepared with Laravel 10 10 Vue JS - Rest API. Although it already has shortcomings, it is functional and very useful in terms of design. Its architecture is such that it can handle an infrastructure between 10k and 50k products.
 
 Do not use it for bigger purposes :)
 
@@ -47,9 +47,10 @@ Let's specify its features:
 
 // There is a Basket with Livewire in the Front of the Site It is integrated with the sweetalert package that I have prepared.
 
-ERC20: 0x7c61a4cbbc115957ea5edbfc9abad361bc720320
-TRC20: TFSPEoUBNo5yDLmEjPMgLgQibqT36NAfkR
-BEP20: 0x0763ddc5ceae78031f27a060c60e91d0941179af
+-ERC20: 0x7c61a4cbbc115957ea5edbfc9abad361bc720320
+-TRC20: TFSPEoUBNo5yDLmEjPMgLgQibqT36NAfkR
+-BEP20: 0x0763ddc5ceae78031f27a060c60e91d0941179af
+
 Also, Livewire has comment and Live Search component.
 
 ![desktop](/screenshots/1.png)
