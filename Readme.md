@@ -48,7 +48,9 @@ Let's specify its features:
 // There is a Basket with Livewire in the Front of the Site It is integrated with the sweetalert package that I have prepared.
 
 -ERC20: 0x7c61a4cbbc115957ea5edbfc9abad361bc720320
+
 -TRC20: TFSPEoUBNo5yDLmEjPMgLgQibqT36NAfkR
+
 -BEP20: 0x0763ddc5ceae78031f27a060c60e91d0941179af
 
 Also, Livewire has comment and Live Search component.
